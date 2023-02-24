@@ -1,0 +1,3 @@
+EBook [id: 123 title: Forever Young chapter: 20 year: 2018 available: true]
+MovieDVD [id: 126 title: Forever Young size: 140.0 year: 2020 available: false]
+MusicCD [id: 150 title: First Song length: 2 year: 1994 available: true]
